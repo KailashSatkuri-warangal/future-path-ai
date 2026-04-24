@@ -27,4 +27,4 @@ jobs:
       # ✅ Only deploy if build succeeds
       - name: Trigger Vercel Deploy
         if: github.ref == 'refs/heads/main'
-        run: curl -X POST "https://api.vercel.com/v1/integrations/deploy/prj_NnuIOYxYRCO2l6sJTzJfZ0KBnCQg/DCKIQdCpWy"
+        run: curl -X POST "https://api.vercel.com/v1/integrations/deploy/prj_prUgUpncF3gqPSwRQeP0iZg7ESHb/BuvAp7ID4s"
