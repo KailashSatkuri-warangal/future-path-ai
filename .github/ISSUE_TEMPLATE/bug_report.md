@@ -1,9 +1,11 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+noteId: "e27d22903fdd11f1a19bc55d88a54cb1"
+tags: []
+name: "Bug report"
+about: "Create a report to help us improve"
+title: ""
+labels: ""
+assignees: ""
 
 ---
 

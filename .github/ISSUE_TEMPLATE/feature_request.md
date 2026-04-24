@@ -1,9 +1,11 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+noteId: "e27c86503fdd11f1a19bc55d88a54cb1"
+tags: []
+name: "Feature request"
+about: "Suggest an idea for this project"
+title: ""
+labels: ""
+assignees: ""
 
 ---
 
